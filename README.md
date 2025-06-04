@@ -36,8 +36,3 @@ Hi, I’m **Amogh** 👋 — an aspiring Ethical Hacker and passionate Developer
 ### ✍️ Daily Dev Inspiration  
 > ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=amogh344&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly crafted with GPRM (https://gprm.itsvg.in) -->
